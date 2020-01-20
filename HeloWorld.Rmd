@@ -1,6 +1,6 @@
 ---
 title: "HeloWorld"
-author: "FiguerolaFerrando_Laura"
+author: "FiguerolaFerrando_L"
 date: "20/1/2020"
 output: html_document
 ---
